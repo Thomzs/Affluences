@@ -1,2 +1,2 @@
 # Affluences
-npm install && node index.ts
+npm install && ts-node index.ts
